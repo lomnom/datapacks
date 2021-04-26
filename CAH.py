@@ -7,7 +7,7 @@ deck=f.readYaml("CAH.yaml")
 
 f.log("read file")
 
-mainDeck=deck[0]
+mainDeck=deck[1]
 mainDeckWhite=mainDeck["white"]
 mainDeckBlack=mainDeck["black"]
 
